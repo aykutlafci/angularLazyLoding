@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angularLazyLoading"
+    }
+  },
+  "defaultProject": "angularLazyLoading",
+  "cli": {
+    "analytics": "6436d3bc-82ed-4b3c-bb44-29e2525eff7d"
+  }
 }
